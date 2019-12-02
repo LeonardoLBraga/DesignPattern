@@ -11,4 +11,4 @@ Nesse exemplo serve para que quando uma música esteja tocando em um aparelho e 
 Serve para que quando a música estiver tocando no celular, ela toque no fone da mesma maneira, somente enviando um alerta para o usuário colocar o fone de ouvido.
 
 # Factory Method:
-Serve para diminuir o acoplamento da Classe Modo de Tocar e suas filhas com a classe cliente do nosso exemplo.
+Serve para diminuir o acoplamento da Classe Modo de Tocar e suas filhas com a classe cliente do nosso exemplo. Também utilizado para centralizar suas instanciações e facilitando sua chamada na Main.
